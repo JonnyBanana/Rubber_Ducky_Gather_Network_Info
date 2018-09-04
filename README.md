@@ -6,7 +6,9 @@ A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs 
 <h2>Gather_Network_Info_Script</h2>
 
 REM gathernetworkInfo a info stealer script by JonnyBanana
+</BR>
 REM https://github.com/JonnyBanana
+</BR>
 REM large delay beacause Windows require a lot of time to read the Ducky with twin duck firmware
 DELAY 10000
 GUI r
@@ -36,7 +38,7 @@ REM so be patient...
 
 
 
-Script Without Comments
+<h6>Script Without Comments</H6>
 
 DELAY 10000
 GUI R
