@@ -1,0 +1,121 @@
+[Architecture/Processor Information]
+
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3c03
+
+[Operating System Information]
+
+Product Name = Windows 7 Professional
+Version = 6.1
+Build Lab = 7601.24117.amd64fre.win7sp1_ldr_escrow.180422-1430
+Type = Multiprocessor Free
+
+This is a clean installed system
+
+[File versions]
+
+onex.dll    6.1.7601.17514
+l2nacp.dll    6.1.7600.16385
+wlanapi.dll    6.1.7601.23915
+wlancfg.dll    6.1.7600.16385
+wlanconn.dll    6.1.7600.16385
+wlandlg.dll    6.1.7600.16385
+wlanext.exe    6.1.7600.16385
+wlangpui.dll    6.1.7601.17514
+wlanhc.dll    6.1.7600.16385
+wlanhlp.dll    6.1.7601.23915
+wlaninst.dll    6.1.7600.16385
+wlanmm.dll    6.1.7600.16385
+wlanmsm.dll    6.1.7601.23915
+wlanpref.dll    6.1.7601.17514
+wlansec.dll    6.1.7601.23915
+wlansvc.dll    6.1.7601.23915
+wlanui.dll    6.1.7601.17514
+onex.dll    6.1.7601.17514
+dot3api.dll    6.1.7601.17514
+dot3cfg.dll    6.1.7601.17514
+dot3dlg.dll    6.1.7600.16385
+dot3gpclnt.dll    6.1.7600.16385
+dot3gpui.dll    6.1.7600.16385
+dot3msm.dll    6.1.7601.17514
+dot3svc.dll    6.1.7601.17514
+dot3ui.dll    6.1.7601.17514
+
+[Power Information]
+
+It is a Desktop running on AC
+
+[System Information]
+
+
+Nome host:                            SAPPOHSAMA-PC
+Nome SO:                              Microsoft Windows 7 Professional 
+Versione SO:                          6.1.7601 Service Pack 1 build 7601
+Produttore SO:                        Microsoft Corporation
+Configurazione SO:                    Workstation autonoma
+Tipo build SO:                        Multiprocessor Free
+Proprietario registrato:              SaPPoHSaMa
+Organizzazione registrata:            
+Numero di serie:                      00371-868-0000007-85790
+Data di installazione originale:      15/08/2017, 19:57:48
+Tempo di avvio sistema:               03/09/2018, 11:39:15
+Produttore sistema:                   ASUS
+Modello sistema:                      All Series
+Tipo sistema:                         x64-based PC
+Processore:                           1 processore(i) installati.
+                                      [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3501 Mhz
+Versione BIOS:                        American Megatrends Inc. 2702, 27/10/2015
+Directory Windows:                    C:\Windows
+Directory di sistema:                 C:\Windows\system32
+Dispositivo di avvio:                 \Device\HarddiskVolume1
+Impostazioni locali sistema:          it;Italiano (Italia)
+Impostazioni locali di input:         it;Italiano (Italia)
+Fuso orario:                          (UTC+01:00) Amsterdam, Berlino, Berna, Roma, Stoccolma, Vienna
+Memoria fisica totale:                7.874 MB
+Memoria fisica disponibile:           2.489 MB
+Memoria virtuale: dimensione massima: 15.747 MB
+Memoria virtuale: disponibile:        9.224 MB
+Memoria virtuale: in uso:             6.523 MB
+Posizioni file di paging:             C:\pagefile.sys
+Dominio:                              WORKGROUP
+Server di accesso:                    \\SAPPOHSAMA-PC
+Aggiornamenti rapidi:                 N/D
+Schede di rete:                       5 NIC installate.
+                                      [01]: Intel(R) Ethernet Connection (2) I218-V
+                                            Nome connessione: Connessione alla rete locale (LAN)
+                                            DHCP abilitato:   Sç
+                                            Server DHCP:      192.168.1.1
+                                            Indirizzi IP
+                                            [01]: 192.168.1.8
+                                            [02]: fe80::f402:c30d:9b9c:2836
+                                      [02]: TAP-ProtonVPN Windows Adapter V9
+                                            Nome connessione: Connessione alla rete locale (LAN) 6
+                                            Stato:            Supporto disconnesso
+                                      [03]: TAP-Windows Adapter V9
+                                            Nome connessione: Connessione alla rete locale (LAN) 7
+                                            DHCP abilitato:   No
+                                            Indirizzi IP
+                                            [01]: 169.254.123.238
+                                            [02]: fe80::689b:d5ae:12ac:cc66
+                                      [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                            Nome connessione: VMware Network Adapter VMnet1
+                                            DHCP abilitato:   Sç
+                                            Server DHCP:      192.168.220.254
+                                            Indirizzi IP
+                                            [01]: 192.168.220.1
+                                            [02]: fe80::21f3:22f0:ef61:6b08
+                                      [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                            Nome connessione: VMware Network Adapter VMnet8
+                                            DHCP abilitato:   Sç
+                                            Server DHCP:      192.168.94.254
+                                            Indirizzi IP
+                                            [01]: 192.168.94.1
+                                            [02]: fe80::2034:faa:2445:627e
+
+[User Information]
+
+USERDOMAIN=SaPPoHSaMa-PC
+USERNAME=SaPPoHSaMa
+USERPROFILE=C:\Users\SaPPoHSaMa

@@ -1,0 +1,152 @@
+Driver Description = Realtek RTL8188CU Wireless LAN 802.11n USB 2.0 Network Adapter
+Adapter Guid = {95ECC852-64EA-4DD2-9013-7D40E0E4355C}
+Hardware ID = usb\vid_0bda&pid_8176
+Driver Date = 8-10-2010
+Driver Version = 1006.2.810.2010
+Driver Provider = Realtek Semiconductor Corp.
+
+Driver Description = 802.11n USB Wireless LAN Card
+Adapter Guid = {B057B74C-0D4A-431B-B4C4-65175C07EC11}
+Hardware ID = usb\vid_148f&pid_3070
+Driver Date = 1-24-2014
+Driver Version = 5.1.11.0
+Driver Provider = Ralink
+ExtensibilityDLL = C:\Windows\system32\RAIHV.dll
+UIExtensibilityCLSID = {73407EDC-77F8-4183-9F20-D35867E6FEF2}
+GroupName = Cisco Sample IHV Service
+AdapterOUI = 16534
+
+Driver Description = TP-LINK Wireless USB Adapter
+Adapter Guid = {8D379B9E-C67D-480F-AE97-997B4C6C8EBF}
+Hardware ID = usb\vid_2357&pid_010c
+Driver Date = 9-6-2016
+Driver Version = 1030.9.303.2016
+Driver Provider = TP-LINK TECHNOLOGIES CO.,LTD.
+ExtensibilityDLL = %SystemRoot%\system32\Rtlihvs.dll
+UIExtensibilityCLSID = {6C2A8CCA-B2A2-4d81-A3B2-4E15F445C312}
+GroupName = Realtek CCX SDK IHV Service
+AdapterOUI = 57420
+
+Driver Description = 802.11n USB Wireless LAN Card
+Adapter Guid = {E267C59B-46A6-44D9-9899-77065C6ECF84}
+Hardware ID = usb\vid_148f&pid_7601
+Driver Date = 1-24-2014
+Driver Version = 5.1.11.0
+Driver Provider = Ralink
+ExtensibilityDLL = C:\Windows\system32\RAIHV.dll
+UIExtensibilityCLSID = {73407EDC-77F8-4183-9F20-D35867E6FEF2}
+GroupName = Cisco Sample IHV Service
+AdapterOUI = 16534
+
+Driver Description = Microsoft Virtual WiFi Miniport Adapter
+Adapter Guid = {3F25143F-9C0E-4D64-9ED0-25072A8C1AE6}
+Hardware ID = {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp
+Driver Date = 6-21-2006
+Driver Version = 6.1.7600.16385
+Driver Provider = Microsoft
+
+Driver Description = Microsoft Virtual WiFi Miniport Adapter
+Adapter Guid = {85ED2ED6-0510-40E0-BDF3-972CB792F1CA}
+Hardware ID = {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp
+Driver Date = 6-21-2006
+Driver Version = 6.1.7600.16385
+Driver Provider = Microsoft
+
+Driver Description = WAN Miniport (IPv6)
+Adapter Guid = {9A399D81-2EAD-4F23-BCDD-637FC13DCD51}
+Hardware ID = ms_ndiswanipv6
+Driver Date = 6-21-2006
+Driver Version = 6.1.7601.17514
+Driver Provider = Microsoft
+
+Driver Description = WAN Miniport (Network Monitor)
+Adapter Guid = {5BF54C7E-91DA-457D-80BF-333677D7E316}
+Hardware ID = ms_ndiswanbh
+Driver Date = 6-21-2006
+Driver Version = 6.1.7601.17514
+Driver Provider = Microsoft
+
+Driver Description = Intel(R) Ethernet Connection (2) I218-V
+Adapter Guid = {6FBE6FED-4287-4EC2-9DB3-2CDCC2AF9704}
+Hardware ID = pci\ven_8086&dev_15a1
+Driver Date = 8-13-2015
+Driver Version = 12.13.17.7
+Driver Provider = Intel
+
+Driver Description = WAN Miniport (IP)
+Adapter Guid = {2CAA64ED-BAA3-4473-B637-DEC65A14C8AA}
+Hardware ID = ms_ndiswanip
+Driver Date = 6-21-2006
+Driver Version = 6.1.7601.17514
+Driver Provider = Microsoft
+
+Driver Description = TomTom
+Adapter Guid = {565DFDA9-7C86-4522-B7A2-9057580C8A46}
+Hardware ID = usb\vid_1390&pid_5454
+Driver Date = 4-21-2009
+Driver Version = 6.0.6000.16384
+Driver Provider = TomTom
+
+Driver Description = Qualcomm Wireless HS-USB Ethernet Adapter 9092
+Adapter Guid = {577807E4-FCD3-45FB-B3C9-D1206CECC5D8}
+Hardware ID = usb\vid_05c6&pid_9092&mi_02
+Driver Date = 3-25-2016
+Driver Version = 4.0.4.0
+Driver Provider = Qualcomm
+
+Driver Description = Qualcomm Wireless HS-USB Ethernet Adapter 9091
+Adapter Guid = {124201ED-B759-4D92-AF10-B64C011324E7}
+Hardware ID = usb\vid_05c6&pid_9091&mi_02
+Driver Date = 3-25-2016
+Driver Version = 4.0.4.0
+Driver Provider = Qualcomm
+
+Driver Description = Remote NDIS based Internet Sharing Device
+Adapter Guid = {5AA61AD9-8F1A-448B-8761-A46EE54E89DB}
+Hardware ID = usb\class_e0&subclass_01&prot_03
+Driver Date = 6-21-2006
+Driver Version = 6.1.7600.16385
+Driver Provider = Microsoft Corporation
+
+Driver Description = TAP-ProtonVPN Windows Adapter V9
+Adapter Guid = {FB143757-1C05-49F8-9CB8-2D73A12CC910}
+Hardware ID = tapprotonvpn
+Driver Date = 4-8-2014
+Driver Version = 9.0.0.21
+Driver Provider = TAP-ProtonVPN Windows Provider V9
+
+Driver Description = TAP-Windows Adapter V9
+Adapter Guid = {B1E69C85-9A19-4242-9A1E-B29A2DB80E90}
+Hardware ID = tap0901
+Driver Date = 7-2-2012
+Driver Version = 9.0.0.9
+Driver Provider = TAP-Windows Provider V9
+
+Driver Description = VMware Virtual Ethernet Adapter for VMnet1
+Adapter Guid = {65149B89-56F5-41F6-8075-F4E831AD7CF4}
+Hardware ID = *vmnetadapter1
+Driver Date = 8-15-2017
+Driver Version = 14.0.0.0
+Driver Provider = VMware, Inc.
+
+Driver Description = VMware Virtual Ethernet Adapter for VMnet8
+Adapter Guid = {1DAE5CBE-7F9F-48CA-AB77-514B9AA5BF34}
+Hardware ID = *vmnetadapter8
+Driver Date = 8-15-2017
+Driver Version = 14.0.0.0
+Driver Provider = VMware, Inc.
+
+Driver Description = TomTom
+Adapter Guid = {59FE3C64-DB3C-4401-BE14-B1B573B605D2}
+Hardware ID = usb\vid_1390&pid_5454
+Driver Date = 4-21-2009
+Driver Version = 6.0.6000.16384
+Driver Provider = TomTom
+
+Driver Description = TomTom
+Adapter Guid = {15563362-C2BC-41D7-8108-366366894E26}
+Hardware ID = usb\vid_1390&pid_5454
+Driver Date = 4-21-2009
+Driver Version = 6.0.6000.16384
+Driver Provider = TomTom
+
