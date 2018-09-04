@@ -1,2 +1,4 @@
 # Rubber_Ducky_Gather_Network_Info
-A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine, the goal is that it does not require administrative permissions to work because the .vbs file is a system file, and also by doing a change directory to C: \ Windows \ System32, the UAC control system is completely useless .. Requires twin Duck Firmware
+A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine.
+
+![Alt text](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info/blob/master/images/PrivacyPolicy.png "Rubber_Ducky_Gather_Network_Info by JonnyBanana")
