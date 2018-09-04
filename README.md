@@ -71,7 +71,6 @@ GUI R
 DELAY 200
 </BR>
 STRING cmd  /C "start gatherNetworkInfo.vbs"  
-</BR>
 DELAY 200
 </BR>
 CTRL-ALT ENTER
