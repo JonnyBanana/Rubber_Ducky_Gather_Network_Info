@@ -109,6 +109,7 @@ ENTER
 
 
 <h3>Quack Yo Life!!!</h3>
+
 ![Alt text](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info/blob/master/images/fun.png "Rubber_Ducky_Gather_Network_Info by JonnyBanana")
 </BR>
 
