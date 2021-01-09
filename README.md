@@ -122,5 +122,5 @@ ENTER
 </div>
 
 
-
+More info: https://www.verboon.info/2011/06/the-gathernetworkinfo-vbs-script/
 
