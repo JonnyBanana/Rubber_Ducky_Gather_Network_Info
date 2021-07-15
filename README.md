@@ -35,7 +35,9 @@ ENTER
 </BR>
 REM the scripts require a little of time to create the files....
 </BR>
-DELAY 15000
+DELAY 10000
+</BR>
+DELAY 5000
 </BR>
 CTRL ESC
 </BR>
@@ -84,7 +86,9 @@ DELAY 100
 </BR>
 ENTER
 </BR>
-DELAY 15000
+DELAY 10000
+</BR>
+DELAY 5000
 </BR>
 CTRL ESC
 </BR>
